@@ -1,0 +1,6 @@
+@inproceedings{zheng2022smfssd,
+  title={Boosting Single-Frame 3D Object Detection by Simulating Multi-Frame Point Clouds},
+  author={Zheng, Wu and Jiang, Li and Lu, Fanbin and Ye, Yangyang and Fu, Chi-Wing},
+  booktitle={ACMMM},
+  year={2022}
+}

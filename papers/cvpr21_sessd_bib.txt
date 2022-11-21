@@ -1,0 +1,6 @@
+@inproceedings{zheng2021sessd,
+  title={{SE-SSD}: Self-Ensembling Single-Stage Object Detector From Point Cloud},
+  author={Zheng, Wu and Tang, Weiliang and Jiang, Li and Fu, Chi-Wing},
+  booktitle={CVPR},
+  year={2021}
+}

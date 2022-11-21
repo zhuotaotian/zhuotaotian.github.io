@@ -1,0 +1,6 @@
+@inproceedings{tian2023context,
+  title={Learning Context-aware Classifier for Semantic Segmentation},
+  author={Tian, Zhuotao and Cui, Jiequan and Jiang, Li and Qi, Xiaojuan and Lai, Xin and Chen, Yixin and Liu, Shu and Jia, Jiaya},
+  booktitle={AAAI},
+  year={2023}
+}

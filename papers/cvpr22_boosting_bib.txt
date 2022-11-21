@@ -1,0 +1,6 @@
+@inproceedings{zheng2022boosting,
+  title={Boosting 3D Object Detection by Simulating Multimodality on Point Clouds},
+  author={Zheng, Wu and Hong, Mingxuan and Jiang, Li and Fu, Chi-Wing},
+  booktitle={CVPR},
+  year={2022}
+}

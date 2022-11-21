@@ -1,0 +1,6 @@
+@inproceedings{jiang2023msp,
+  title={Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding},
+  author={Jiang, Li and Yang, Zetong and Shi, Shaoshuai and Golyanik, Vladislav and Dai, Dengxin and Schiele, Bernt},
+  booktitle={CVPR},
+  year={2023}
+}

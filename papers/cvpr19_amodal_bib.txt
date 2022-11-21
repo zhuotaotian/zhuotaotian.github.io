@@ -1,0 +1,6 @@
+@inproceedings{qi2019amodal,
+  title={Amodal Instance Segmentation through KINS Dataset},
+  author={Qi, Lu and Jiang, Li and Liu, Shu and Shen, Xiaoyong and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2019}
+}

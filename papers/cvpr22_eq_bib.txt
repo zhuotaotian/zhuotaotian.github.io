@@ -1,0 +1,6 @@
+@inproceedings{yang2022eq,
+  title={A Unified Query-based Paradigm for Point Cloud Understanding},
+  author={Yang, Zetong and Jiang, Li and Sun, Yanan and Schiele, Bernt and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2022}
+}

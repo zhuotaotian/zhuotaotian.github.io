@@ -1,0 +1,6 @@
+@article{shi2022pv,
+  title={{PV-RCNN++}: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection},
+  author={Shi, Shaoshuai and Jiang, Li and Deng, Jiajun and Wang, Zhe and Guo, Chaoxu and Shi, Jianping and Wang, Xiaogang and Li, Hongsheng},
+  journal={IJCV},
+  year={2022}
+}

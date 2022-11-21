@@ -1,0 +1,6 @@
+@inproceedings{zheng2021ciassd,
+  title={{CIA-SSD}: Confident IoU-Aware Single-Stage Object Detector From Point Cloud},
+  author={Zheng, Wu and Tang, Weiliang and Chen, Sijin and Jiang, Li and Fu, Chi-Wing},
+  booktitle={AAAI},
+  year={2021}
+}

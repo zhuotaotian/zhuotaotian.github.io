@@ -1,0 +1,6 @@
+@inproceedings{ding2022doda,
+  title={{DODA}: Data-oriented Sim-to-Real Domain Adaptation for 3D Semantic Segmentation},
+  author={Ding, Runyu and Yang, Jihan and Jiang, Li and Qi, Xiaojuan},
+  booktitle={ECCV},
+  year={2022}
+}

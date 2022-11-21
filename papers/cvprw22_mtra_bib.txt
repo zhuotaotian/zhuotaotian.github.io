@@ -1,0 +1,6 @@
+@inproceedings{shi2022mtra,
+  title={{MTR-A}: 1st Place Solution for 2022 Waymo Open Dataset Challenge–Motion Prediction},
+  author={Shi, Shaoshuai and Jiang, Li and Dai, Dengxin and Schiele, Bernt},
+  booktitle={CVPRW},
+  year={2022}
+}

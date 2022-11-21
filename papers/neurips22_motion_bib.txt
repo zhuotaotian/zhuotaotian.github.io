@@ -1,0 +1,6 @@
+@inproceedings{shi2022motion,
+  title={Motion Transformer with Global Intention Localization and Local Movement Refinement},
+  author={Shi, Shaoshuai and Jiang, Li and Dai, Dengxin and Schiele, Bernt},
+  booktitle={NeurIPS},
+  year={2022}
+}

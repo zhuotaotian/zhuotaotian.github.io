@@ -1,0 +1,6 @@
+@inproceedings{jiang2021guided,
+  title={Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation},
+  author={Jiang, Li and Shi, Shaoshuai and Tian, Zhuotao and Lai, Xin and Liu, Shu and Fu, Chi-Wing and Jia, Jiaya},
+  booktitle={ICCV},
+  year={2021}
+}

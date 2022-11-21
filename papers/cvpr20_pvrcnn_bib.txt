@@ -1,0 +1,6 @@
+@inproceedings{shi2020pvrcnn,
+  title={{PV-RCNN}: Point-Voxel Feature Set Abstraction for 3D Object Detection},
+  author={Shi, Shaoshuai and Guo, Chaoxu and Jiang, Li and Wang, Zhe and Shi, Jianping and Wang, Xiaogang and Li, Hongsheng},
+  booktitle={CVPR},
+  year={2020}
+}

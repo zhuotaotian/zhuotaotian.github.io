@@ -1,0 +1,6 @@
+@inproceedings{jiang2018gal,
+  title={{GAL}: Geometric Adversarial Loss for Single-View 3D-Object Reconstruction},
+  author={Jiang, Li and Shi, Shaoshuai and Qi, Xiaojuan and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2018}
+}
