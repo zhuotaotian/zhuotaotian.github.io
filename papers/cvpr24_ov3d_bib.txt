@@ -1,0 +1,6 @@
+@inproceedings{jiang2024ov3d,
+  title={Open-Vocabulary 3D Semantic Segmentation with Foundation Models},
+  author={Jiang, Li and Shi, Shaoshuai and Schiele, Bernt},
+  booktitle={CVPR},
+  year={2024}
+}

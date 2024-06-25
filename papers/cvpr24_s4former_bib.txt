@@ -1,0 +1,6 @@
+@inproceedings{hu2024s4former,
+  title={Training Vision Transformers for Semi-Supervised Semantic Segmentation},
+  author={Hu, Xinting and Jiang, Li and Schiele, Bernt},
+  booktitle={CVPR},
+  year={2024}
+}

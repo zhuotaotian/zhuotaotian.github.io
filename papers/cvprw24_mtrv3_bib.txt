@@ -1,0 +1,6 @@
+@inproceedings{shi2024mtrv3,
+  title={{MTR v3}: 1st Place Solution for 2024 Waymo Open Dataset Challenge - Motion Prediction},
+  author={Shi, Chen and Shi, Shaoshuai and Jiang, Li},
+  booktitle={CVPRW},
+  year={2024}
+}

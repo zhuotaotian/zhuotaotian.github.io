@@ -1,0 +1,7 @@
+@article{shi2024mtr++,
+  title={MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying
+},
+  author={Shi, Shaoshuai and Jiang, Li and Dai, Dengxin and Schiele, Bernt},
+  journal={TPAMI},
+  year={2024}
+}

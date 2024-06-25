@@ -1,0 +1,6 @@
+@inproceedings{zhang2024freepoint,
+  title={FreePoint: Unsupervised Point Cloud Instance Segmentation},
+  author={Zhang, Zhikai and Ding, Jian and Jiang, Li and Dai, Dengxin and Xia, Gui-Song},
+  booktitle={CVPR},
+  year={2024}
+}
