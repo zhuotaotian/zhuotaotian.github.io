@@ -1,0 +1,6 @@
+@inproceedings{das2024mtaclip,
+  title={MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment},
+  author={Das, Anurag and Hu, Xinting and Jiang, Li and Schiele, Bernt},
+  booktitle={ECCV},
+  year={2024}
+}

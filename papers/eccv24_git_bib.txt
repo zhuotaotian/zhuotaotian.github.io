@@ -1,0 +1,6 @@
+@inproceedings{wang2024git,
+  title={GiT: Towards Generalist Vision Transformer through Universal Language Interface},
+  author={Wang, Haiyang and Tang, Hao and Jiang, Li and Shi, Shaoshuai and Naeem, Muhammad Ferjad and Li, Hongsheng and Schiele, Bernt and Wang, Liwei},
+  booktitle={ECCV},
+  year={2024}
+}
