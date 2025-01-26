@@ -1,0 +1,6 @@
+@inproceedings{xu2025lion,
+  title={LiON: Learning Point-wise Abstaining Penalty for LiDAR Outlier DetectioN Using Diverse Synthetic Data},
+  author={Xu, Shaocong and Li, Pengfei and Sun, Qianpu and Liu, Xinyu and Li, Yang and Guo, Shihui and Wang, Zhen and Jiang, Bo and Wang, Rui and Sheng, Kehua and Zhang, Bo and Jiang, Li and Zhao, Hao and Chen, Yilun},
+  booktitle={AAAI},
+  year={2025}
+}
