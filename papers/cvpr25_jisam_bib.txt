@@ -1,0 +1,6 @@
+@inproceedings{chen2025jisam,
+  title={JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data},
+  author={Chen, Runjian and Shao, Wenqi and Zhang, Bo and Shi, Shaoshuai and Jiang, Li and Luo, Ping},
+  booktitle={CVPR},
+  year={2025}
+}

@@ -1,0 +1,6 @@
+@inproceedings{deng20253dllava,
+  title={3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer},
+  author={Deng, Jiajun and He, Tianyu and Jiang, Li and Wang, Tianyu and Dayoub, Feras and Reid Ian},
+  booktitle={CVPR},
+  year={2025}
+}
