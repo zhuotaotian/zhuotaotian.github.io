@@ -1,0 +1,6 @@
+@inproceedings{peng2025mitigating,
+  title={Mitigating Object Hallucinations via Sentence-Level Early Intervention},
+  author={Peng, Shangpin and Yang, Senqiao and Jiang, Li and Tian, Zhuotao},
+  booktitle={ICCV},
+  year={2025}
+}

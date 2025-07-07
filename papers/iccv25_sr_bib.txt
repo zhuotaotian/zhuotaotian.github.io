@@ -1,0 +1,6 @@
+@inproceedings{ning2025sr,
+  title={Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation},
+  author={Ning, Zhenhua and Tian, Zhuotao and Shi, Shaoshuai and Lu, Guangming and He, Daojing and Pei, Wenjie and Jiang, Li},
+  booktitle={ICCV},
+  year={2025}
+}

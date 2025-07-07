@@ -1,0 +1,6 @@
+@inproceedings{shi2025drivex,
+  title={DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving},
+  author={Shi, Chen and Shi, Shaoshuai and Sheng, Kehua and Zhang, Bo and Jiang, Li},
+  booktitle={ICCV},
+  year={2025}
+}
